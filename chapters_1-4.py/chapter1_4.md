@@ -1,6 +1,7 @@
 # my_log.py
 
 `my_log = list(range(1, 21) )`
+
 `print(my_log [0:4] )`
 
 ---
