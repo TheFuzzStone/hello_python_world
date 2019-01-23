@@ -8,7 +8,7 @@
 
 About a week ago I downloaded Russian translation of the book "**Python Crash Course**" by [Eric Matthes](https://ehmatthes.github.io/). I've never had any programming experience before. I've spent a different amount of time behind a book on different days (sometimes two-three hours, sometimes eight-nine hours). I have briefly reviewed the chapter describing the installation of Python 3.
 
-So, what did I learn in a week :
+So, what did I learn in a week:
 
 -  **Variables and Simple Data Types**
  
