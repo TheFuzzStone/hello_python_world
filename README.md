@@ -1,3 +1,5 @@
+README
+
 # hello_python_world.py
 A couple of days ago, I started learning Python, and this is just a log of my progress. 
 
@@ -13,7 +15,7 @@ I'm always open to constructive criticism, making new friends and have a peacefu
 
 Also I'm not very familiar with GIT, there's gonna be a lot of mess in this repository... 🙂
 
-For all experiments, I use my laptop with Ubuntu 18.04.1 and Cinnamon DE.
+For all experiments, I use my laptop with Ubuntu 18.04.1 with Cinnamon DE.
 
 ---
 
