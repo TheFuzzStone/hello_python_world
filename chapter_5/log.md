@@ -2,7 +2,6 @@
 
 January 24, 2019
 
----
 
 **Time allocated for study (approximately)**: ==3 hours==
 
@@ -16,7 +15,6 @@ January 24, 2019
 ## Day 9
 January 25, 2019
 
----
 
 **Time allocated for study (approximately)**: ==1 hour 30 minutes==
 
@@ -26,3 +24,13 @@ January 25, 2019
 
 ---
 
+## Day 10
+January 26, 2019
+
+ **Time allocated for study (approximately)**: ==1 hour ==
+ 
+ **Today's Progress**: Repeated subsections from yesterday. Learned how to testing multiple conditions, done tasks 5-3 and 5-4.
+ 
+**Thoughts**: I've learned the basics `if`, `if-else` and `if-elif-else` pretty well. Looked at the 5-5 task... I want to sleep... That's enough for today.
+
+---
