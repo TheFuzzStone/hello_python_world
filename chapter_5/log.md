@@ -46,3 +46,14 @@ January 27, 2019
 
 ---
 
+##Day 12
+January 28, 2019
+
+**Time allocated for study (approximately)**:  1 hour
+
+**Today's Progress**: One task (5-7) and a few subsections.
+
+**Thoughts**: I need to sleep.
+
+---
+
