@@ -35,7 +35,7 @@ January 26
 
 ---
 
-##Day 11
+## Day 11
 January 27
 
 **Time allocated for study (approximately)**: 1 hour 30 minutes
@@ -46,7 +46,7 @@ January 27
 
 ---
 
-##Day 12
+## Day 12
 January 28
 
 **Time allocated for study (approximately)**:  1 hour
@@ -57,7 +57,7 @@ January 28
 
 ---
 
-##Day 13
+## Day 13
 January 29
 
 **Time allocated for study (approximately)**: 1 hour
