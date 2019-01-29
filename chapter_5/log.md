@@ -1,6 +1,6 @@
 ## Day 8
 
-January 24, 2019
+January 24
 
 
 **Time allocated for study (approximately)**: 3 hours
@@ -13,7 +13,7 @@ January 24, 2019
 ---
 
 ## Day 9
-January 25, 2019
+January 25
 
 
 **Time allocated for study (approximately)**: 1 hour 30 minutes
@@ -25,7 +25,7 @@ January 25, 2019
 ---
 
 ## Day 10
-January 26, 2019
+January 26
 
  **Time allocated for study (approximately)**: 1 hour
  
@@ -36,7 +36,7 @@ January 26, 2019
 ---
 
 ##Day 11
-January 27, 2019
+January 27
 
 **Time allocated for study (approximately)**: 1 hour 30 minutes
 
@@ -47,13 +47,30 @@ January 27, 2019
 ---
 
 ##Day 12
-January 28, 2019
+January 28
 
 **Time allocated for study (approximately)**:  1 hour
 
 **Today's Progress**: One task (5-7) and a few subsections.
 
 **Thoughts**: I need to sleep.
+
+---
+
+##Day 13
+January 29
+
+**Time allocated for study (approximately)**: 1 hour
+
+**Today's Progress**: My Python's study today is pretty weak: 
+
+- Using `if` Statements with Lists:
+
+    - Checking for Special Items
+    
+    - Checking That a List Is Not Empty
+    
+**Thoughts**: Spent a lot of time studying Grin and wallet713. Damned crypto! /s
 
 ---
 
