@@ -70,7 +70,7 @@ January 29
     
     - Checking That a List Is Not Empty
     
-**Thoughts**: Spent a lot of time studying Grin and wallet713. Damned crypto! /s
+**Thoughts**: Spent a lot of time studying Grin and wallet713. Damned cryptocurrencies! /s
 
 ---
 
