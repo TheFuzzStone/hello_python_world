@@ -74,3 +74,13 @@ January 29
 
 ---
 
+## Day 14
+January 30
+
+**Time allocated for study (approximately)**: 1 hour 30 minutes
+
+**Today's Progress**: Using Multiple Lists with `if-else`chain. Done 5-8; 5-9 and 5-10 tasks. 
+
+**Thoughts**: A little stuck on task 5-10. I understood the task very well. I had to do a little work and remember how to create lists and how to apply the `lower()` function. I had a great feeling when I found a solution and solved this task.
+
+---
