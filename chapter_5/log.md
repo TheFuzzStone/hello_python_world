@@ -84,3 +84,16 @@ January 30
 **Thoughts**: A little stuck on task 5-10. I understood the task very well. I had to do a little work and remember how to create lists and how to apply the `lower()` function. I had a great feeling when I found a solution and solved this task.
 
 ---
+
+## Day 15
+January 31
+
+**Time allocated for study (approximately)**: 4 hours
+
+**Today's Progress**: Done task 5-11. The task 5-12 (*Styling `if` statements: Review the programs you wrote in this chapter, and
+make sure you styled your conditional tests appropriately*) did it by "accident". Earlier I had read the recommendations on code writing (PEP 8) and although I am still a rookie in Python's world, I'm looking to write readable and clean code, because I plan to take part in different open source projects in the future. And that's it, I've finished the chapter 5. 🙂
+
+Started studying chapter 6: **Dictionaries**. I have read the following subchapters: "*A Simple Dictionary*"; "*Working with Dictionaries*"; "*Accessing Values in a Dictionary*"; "*Adding New Key-Value Pairs*"; "*Starting with an Empty Dictionary*"; "*Modifying Values in a Dictionary*"; "*Removing Key-Value Pairs*"; 
+
+**Thoughts**: Today I had a nice and productive day. 🙂
+
