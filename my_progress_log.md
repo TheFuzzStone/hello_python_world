@@ -97,3 +97,15 @@ Started studying chapter 6: **Dictionaries**. I have read the following subchapt
 
 **Thoughts**: Today I had a nice and productive day. 🙂
 
+## Day 16
+
+February 1
+
+**Time allocated for study (approximately)**: 2 hours
+
+**Today's Progress**: Sub-chapters done: "*A Dictionary of Similar Objects*", "*Looping Through All Key-Value Pairs*", "*Looping Through All the Keys in a Dictionary*", "*Looping Through a Dictionary’s Keys in Order*".
+
+Done tasks 6-1 and 6-2. 
+
+**Thoughts**: Today is friday. It's time to rest.
+
