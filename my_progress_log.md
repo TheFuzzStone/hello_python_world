@@ -109,3 +109,21 @@ Done tasks 6-1 and 6-2.
 
 **Thoughts**: Today is friday. It's time to rest.
 
+## Day 17
+February 2
+
+**Time allocated for study (approximately)**: 4 hours
+
+**Today's Progress**: Quickly repeated yesterday's subsections, done tasks 6-4; 6-5 and 6-6. 
+
+ I also learned these subsections:
+
+* Looping Through All Values in a Dictionary
+* A List of Dictionaries
+* A List in a Dictionary
+* A Dictionary in a Dictionary
+
+**Thoughts**: With each section it becomes more and more difficult, but on the other hand more interesting. Tomorrow I will definitely repeat the subsections I have learned in the last two days.
+
+---
+
