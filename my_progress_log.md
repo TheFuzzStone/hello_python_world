@@ -127,3 +127,11 @@ February 2
 
 ---
 
+## Day 18
+February 3
+
+**Time allocated for study (approximately)**: 1 hour
+
+**Today's Progress**: Repeated subchapters from yesterday.
+
+---
