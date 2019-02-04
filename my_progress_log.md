@@ -135,3 +135,12 @@ February 3
 **Today's Progress**: Repeated subchapters from yesterday.
 
 ---
+
+## Day 19
+February 4
+
+**Time allocated for study (approximately)**: 3 hours
+
+**Today's Progress**: Finished the whole chapter №6 "Dictionaries". Done tasks: 6-7, 6-9, 6-10 and 6-11.
+
+**Thoughts**: Everything's great! I have to keep moving on!
