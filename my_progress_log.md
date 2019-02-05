@@ -159,11 +159,11 @@ February 5
 m = input('What time are you going to start studying? (enter an integer number): '  )
 m = int(m)
 if m >= 10:
-	print('Don\'t even hope to have a productive day. :-()')
+    print('Don\'t even hope to have a productive day. :-()')
 elif m < 6:
-	print('It\'s too early! :-/')
+    print('It\'s too early! :-/')
 else:
-	print('You\'ll have a productive day! :-)')
+    print('You\'ll have a productive day! :-)')
 ```
 
 ---
