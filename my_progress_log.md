@@ -144,3 +144,26 @@ February 4
 **Today's Progress**: Finished the whole chapter №6 "Dictionaries". Done tasks: 6-7, 6-9, 6-10 and 6-11.
 
 **Thoughts**: Everything's great! I have to keep moving on!
+
+## Day 20
+February 5
+
+**Time allocated for study (approximately)**: 1 hour
+
+**Today's Progress**: Started studying Chapter 7 "*User Input and while Loops*", done the following tasks: 7-1, 7-2 and 7-3.
+
+**Thoughts**: And again, I started studying in the afternoon which means:
+
+
+```
+m = input('What time are you going to start studying? (enter an integer number): '  )
+m = int(m)
+if m >= 10:
+....print('Don\'t even hope to have a productive day. :-()')
+elif m < 6:
+....print('It\'s too early! :-/')
+else:
+....print('You\'ll have a productive day! :-)')
+```
+
+---
