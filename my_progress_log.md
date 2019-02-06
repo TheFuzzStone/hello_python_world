@@ -166,4 +166,11 @@ else:
     print('You\'ll have a productive day! :-)')
 ```
 
+## Day 21
+February 6
+
+**Time allocated for study (approximately)**: 1 hour
+
+**Today's Progress**: Using flags, `break`, `continue`,  and how to avoid infinite loops.
+
 ---
