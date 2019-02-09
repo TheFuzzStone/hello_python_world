@@ -174,3 +174,16 @@ February 6
 **Today's Progress**: Using flags, `break`, `continue`,  and how to avoid infinite loops.
 
 ---
+
+## Day 22
+February 9
+
+I missed two days. I didn't have a chance to learn Python at all for two days.
+
+**Time allocated for study (approximately)**: 3 hours
+
+**Today's Progress**: Repeated the chapters I learned at day 21 (February 6) and finished the Chapter 7. Done tasks: 7-4, 7-5, 7-7, 7-8, 7-9, and 7-10.
+
+**Thoughts**: In chapter 7 I learned how to use `input()`, flags, `break` and `continue` statements, how to interact with the information that the user will provide (text and numerical input), how to use `while` loops to make programs run as long as "users" want them to. How to use `while` loop to move items from one list to another, and how to remove all instances of a value from a list. Also how `while` loops can be used with dictionaries.
+
+---
