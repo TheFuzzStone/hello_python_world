@@ -187,3 +187,11 @@ I missed two days. I didn't have a chance to learn Python at all for two days.
 **Thoughts**: In chapter 7 I learned how to use `input()`, flags, `break` and `continue` statements, how to interact with the information that the user will provide (text and numerical input), how to use `while` loops to make programs run as long as "users" want them to. How to use `while` loop to move items from one list to another, and how to remove all instances of a value from a list. Also how `while` loops can be used with dictionaries.
 
 ---
+
+## Day 23
+
+**Time allocated for study (approximately)**: 1 hour
+
+**Today's Progress**: One hour of studying Chapter 8 `def`. Done tasks 8-1 and 8-2.
+
+---
