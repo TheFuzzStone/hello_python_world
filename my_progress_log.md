@@ -195,3 +195,22 @@ I missed two days. I didn't have a chance to learn Python at all for two days.
 **Today's Progress**: One hour of studying Chapter 8 `def`. Done tasks 8-1 and 8-2.
 
 ---
+
+## Day 24
+
+**Time allocated for study (approximately)**: 3 hours
+
+**Today's Progress**: Done tasks 8-3, 8-4, 8-5 also learned the following subchapters 
+
+* Positional Arguments (multiple function calls, order matters in positional arguments); 
+
+* Keyword Arguments
+
+* Default Values
+
+* Equivalent Function Calls
+
+**Thoughts**: I stuck on the subchapter "**Return Values**". Read it a few times, I don't fully understand it. I guess that's enough for today. Tomorrow I will quickly repeat some of the strokes and continue from "**Return Values**". 
+
+---
+
