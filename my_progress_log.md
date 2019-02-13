@@ -214,3 +214,25 @@ I missed two days. I didn't have a chance to learn Python at all for two days.
 
 ---
 
+## Day 25
+
+**Time allocated for study (approximately)**: 3 hours
+
+**Today's Progress**: I started today with a quick repeat of yesterday's topics I stopped on `return` a little bit more (I watched one video on YouTube to make sure that I understood everything correctly). Learned the following subchapters:
+
+* Return Values
+
+* Returning a Simple Value
+
+* Making an Argument Optional
+
+* Returning a Dictionary
+
+* Using a Function with a while Loop
+
+* Passing a List
+
+And done the following tasks: 8-6, 8-7 and 8-8. 
+
+---
+
