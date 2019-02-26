@@ -236,3 +236,48 @@ And done the following tasks: 8-6, 8-7 and 8-8.
 
 ---
 
+## Day 26
+
+**Time allocated for study (approximately)**: 2 hours
+
+**Today's Progress**: Repeated the stuff and then I learned the next subchapters: 
+
+* Modifying a List in a Function
+
+* Preventing a Function from Modifying a List
+
+Done tasks 8-9, 8-10 and 8-11.
+
+**Thoughts**: I haven't learned Python for 12 days. There was no time for that. And today it was really hard to start again. I've spent over an hour today repeating previous stuff. and then I couldn't get on with it, I couldn't concentrate. Systematicity is the key to success, imho.
+
+## Day 27
+
+**Time allocated for study (approximately)**: 3 hours 30 minutes
+
+**Today's Progress**: Started as usual with a quick repeat of yesterday's stuff, and then immediately began to study the new stuff. Learned the following subsections:
+
+* Passing an Arbitrary Number of Arguments
+ 	* Mixing Positional and Arbitrary Arguments
+
+	* Using Arbitrary Keyword Arguments
+
+* Storing Your Functions in Modules
+
+	* Importing an Entire Module
+
+	* Importing Specific Functions
+
+	* Using as to Give a Function an Alias
+
+	* Using as to Give a Module an Alias
+
+	* Importing All Functions in a Module
+
+* Styling Functions
+
+I've done the following tasks: from 8-12 to 8-16
+
+**Thoughts**: I had a great, productive day! I finished a very important and interesting chapter №8 "**Functions**". The chapter ended with some recommendations from **PEP 8**... Tomorrow I will definitely read the entire section **PEP 8** in order to follow the generally accepted rules in the Python community and write a beautiful code. 
+
+---
+
