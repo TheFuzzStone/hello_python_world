@@ -281,3 +281,24 @@ I've done the following tasks: from 8-12 to 8-16
 
 ---
 
+## Day 28
+
+**Time allocated for study (approximately)**: 3 hours 30 minutes
+
+**Today's Progress**: As usual, I started by repeating the previous stuff. And before I proceeded to section 9, I went to read **[PEP 8](https://pythonworld.ru/osnovy/pep-8-rukovodstvo-po-napisaniyu-koda-na-python.html)**. Then, I started section 9 "**Classes**". I watched a couple of videos on YouTube about `class` and then learned the following chapters from the book:
+
+* Creating and Using a Class
+
+	* Creating the Dog Class
+
+	* The `__init__()` Method
+	
+* Making an Instance from a Class
+
+	* Calling Methods
+
+	* Creating Multiple Instances
+
+Done tasks: 9-1, 9-2 and 9-3
+
+**Thoughts**: A productive day, even though I couldn't immediately understand the new chapter of the book.
