@@ -302,3 +302,24 @@ I've done the following tasks: from 8-12 to 8-16
 Done tasks: 9-1, 9-2 and 9-3
 
 **Thoughts**: A productive day, even though I couldn't immediately understand the new chapter of the book.
+
+## Day 29
+
+**Time allocated for study (approximately)**: 1 hour 30 minutes
+
+**Today's Progress**: Repeated yesterday's stuff + learned a few subchapters:
+
+* Working with Classes and Instances
+
+	* The Car Class
+	* Setting a Default Value for an Attribute
+	* Modifying Attribute Values
+	* Modifying an Attribute’s Value Directly
+	* Modifying an Attribute’s Value Through a Method
+	* Incrementing an Attribute’s Value Through a Method
+
+**Thoughts**: I've been in town most of the day doing some stuff offline. Therefore, I repeated yesterday's material in public transport from my smartphone. It's a good thing that I was repeating yesterday's subchapters. I understood them really well. 
+
+When I got home, I learned a few more subchapters.
+
+---
