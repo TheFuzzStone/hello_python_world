@@ -323,3 +323,21 @@ Done tasks: 9-1, 9-2 and 9-3
 When I got home, I learned a few more subchapters.
 
 ---
+
+##Day 30
+
+**Time allocated for study (approximately)**: 2 hours
+
+**Today's Progress**: Quick repeat, done tasks 9-4 and 9-5 + the following topics:
+
+* Inheritance
+	* The `__init__()` Method for a Child Class
+	* Defining Attributes and Methods for the Child Class
+
+**Thoughts**: The more I learn about classes, the more I understand where it can be used. 
+
+Today is the 30th day of my study of Python. I'm happy with my results 😊. 
+To be honest, I don't even know how to evaluate my results. Anyway, I'm not gonna stop with the progress I've made.
+
+---
+
