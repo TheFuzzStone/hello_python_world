@@ -341,3 +341,17 @@ To be honest, I don't even know how to evaluate my results. Anyway, I'm not gonn
 
 ---
 
+## Day 31
+
+**Time allocated for study (approximately)**: 2 hours 30 minutes
+
+**Today's Progress**: Quick repeat of yesterdays topics and learned the following topics:
+
+* Overriding Methods from the Parent Class
+
+* Instances as Attributes
+
+* Modeling Real-World Objects
+
+Done tasks from 9-6 to 9-9. 
+
