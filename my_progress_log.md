@@ -355,3 +355,12 @@ To be honest, I don't even know how to evaluate my results. Anyway, I'm not gonn
 
 Done tasks from 9-6 to 9-9. 
 
+## Day 32
+
+**Time allocated for study (approximately)**: 1 hour
+
+**Today's Progress**: Today, I just repeated the topics from yesterday. 
+
+---
+
+
