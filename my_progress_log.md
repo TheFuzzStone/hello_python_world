@@ -363,4 +363,21 @@ Done tasks from 9-6 to 9-9.
 
 ---
 
+## Day 33
 
+**Time allocated for study (approximately)**: 1 hour
+
+**Today’s Progress**: 
+
+* Importing Classes
+	* Importing a Single Class
+	* Storing Multiple Classes in a Module
+	* Importing Multiple Classes from a Module
+	* Importing an Entire Module
+	* Importing All Classes from a Module
+	* Importing a Module into a Module
+	* Finding Your Own Workflow
+
+Done tasks 9-10 and 9-11.
+
+---
