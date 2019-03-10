@@ -59,3 +59,8 @@ class Admin(User):
         """Greeting for dear Admin."""
         print('\nWelcome back dear ' + self.first_name.title() + '!')
         print('---------------------------')
+
+admin = Admin('admin', 'admin@protonmail.com')
+admin.describe_user()
+admin.greet_user()
+admin.privileges.show_privileges()

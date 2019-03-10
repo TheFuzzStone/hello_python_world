@@ -381,3 +381,12 @@ Done tasks from 9-6 to 9-9.
 Done tasks 9-10 and 9-11.
 
 ---
+
+## Day 34
+
+**Time allocated for study (approximately)**: 2 hours
+
+**Today’s Progress**: I've finished the chapter №9: "**Classes**".
+
+**Thoughts**: I didn't have time to learn Python for a couple of days, so today wasn't a productive day. But I've finished the chapter "Classes". Although, tomorrow I'll start with a quick rerun of the whole chapter.
+
