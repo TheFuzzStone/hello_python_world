@@ -390,3 +390,25 @@ Done tasks 9-10 and 9-11.
 
 **Thoughts**: I didn't have time to learn Python for a couple of days, so today wasn't a productive day. But I've finished the chapter "Classes". Although, tomorrow I'll start with a quick rerun of the whole chapter.
 
+---
+
+## Day 35
+
+**Time allocated for study (approximately)**: 1 hour 30 minutes
+
+**Today’s Progress**: Today, I started studying the chapter №10: "**Files and Exepcions**". Learned how to read from a file in different ways:
+
+* Reading an entire file;
+
+* Reading line by line;
+
+* Making a list of lines from a file;
+
+Worked a little with a file contents and learned about file paths (relative and absolute). Done tasks 10-1 and 10-2.
+
+
+**Thoughts**: I've had a break for almost **two months** without learning Python. In the last three days, I've repeated 9 chapters and today I started the chapter №10.
+Repeating the material I have passed, I noticed that I have learned it quite well, and that I personally am glad to see that. Thought I'd have a lot harder to remember what I learned but everything's fine.
+
+---
+
