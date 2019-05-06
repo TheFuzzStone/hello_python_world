@@ -11,7 +11,7 @@ If you're looking for a book to start studying Python, try to start with that bo
 
 I'm a cryptocurrency enthusiast (specially Monero) from Ukraine. Always trying to use only open source software and encrypt everething. 😌
 
-I'm always open to constructive criticism, making new friends and have a peaceful conversation. So, if you want contact me for some reason, [here](https://zerobin.net/?b60e0b0d2a5b0013#Iw9rm3YwfjO9BZfmmy3GcrFgOyqQwHhXmmAvN1jRzvI=) you will find how to do this.
+I'm always open to constructive criticism, making new friends and have a peaceful conversation. So, if you want contact me for some reason, [here](https://thefuzzst0ne.keybase.pub/) you will find how to do this.
 
 Also I'm not very familiar with GIT, there's gonna be a lot of mess in this repository... 🙂
 
