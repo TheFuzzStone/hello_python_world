@@ -412,3 +412,27 @@ Repeating the material I have passed, I noticed that I have learned it quite wel
 
 ---
 
+## Day 36
+
+**Time allocated for study (approximately)**: 2 hours
+
+**Today’s Progress**: Began with a repeat of yesterday's stuff. And then I started to learn the subchapter "**Writing to a File**":
+
+* Writing to an Empty File
+
+* Writing Multiple Lines
+
+* Appending to a File
+
+Done tasks 10-3; 10-4 and 10-5.
+
+**Thoughts**: I want to continue learning, but I won't, because when I did the last 10-5 task, I was running the program file this way:
+
+`python 10_5.py`
+
+And it's clear that I've got an error, because in my system `python` is 2.7 and `python3` is 3.6.7. I've been checking the code for about half an hour and I couldn't figure out why it doesn't work... That's enough for today.
+
+---
+
+
+
