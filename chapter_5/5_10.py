@@ -18,6 +18,7 @@ comparsion_case_sensitive_lower = [user.lower() for user in current_users]
 
 for new_user in new_users:
     if new_user.lower() in comparsion_case_sensitive_lower:
-        print('Sorry, but nickname: ' + new_user + ' is already taken. Please, choose a different nickname.')
+        print('Sorry, but nickname: ' + new_user + ' is already taken.\
+Please, choose a different nickname.')
     else:
         print('Nickname: ' + new_user + ' seems available for registration.')

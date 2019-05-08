@@ -434,5 +434,37 @@ And it's clear that I've got an error, because in my system `python` is 2.7 and 
 
 ---
 
+## Day 37
+
+**Time allocated for study (approximately)**: 2 hours
+
+**Today’s Progress**: 
+
+* Exceptions
+
+	* Handling the ZeroDivisionError Exception
+
+	* Using `try-except` Blocks
+
+	* Using Exceptions to Prevent Crashes
+
+	* The `else` Block
+
+	* Handling the FileNotFoundError Exception
+	
+	* Analyzing Text
+
+	* Working with Multiple Files
+
+	* Failing Silently
+
+Done tasks 10-6, 10-7, 10-8 and 10-10
+
+**Thoughts**: Today was a great and productive day! In addition, I have read about the formatting of strings in Python: https://realpython.com/python-string-formatting/
+
+The task 10-10 was simple, but I decided to make it a little more complicated. I am very satisfied with the result!
+
+---
+
 
 

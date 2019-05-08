@@ -13,7 +13,6 @@ if 'green' in alien_color:
 else:
     print('You just earned 10 points!')
 
-
 # another version
 alien_color = ['green', 'yellow', 'red']
 if 'green' not in alien_color:
