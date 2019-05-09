@@ -466,5 +466,21 @@ The task 10-10 was simple, but I decided to make it a little more complicated. I
 
 ---
 
+## Day 38
 
+**Time allocated for study**: 1 hour 30 minutes
+
+**Today’s Progress**: 
+
+* Storing Data
+
+	* Using json.dump() and json.load()
+
+	* Saving and Reading User-Generated Data
+
+	* Refactoring
+
+Done the 10-11 and 10-12 tasks.
+
+---
 
