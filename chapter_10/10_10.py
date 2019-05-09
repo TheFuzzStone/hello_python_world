@@ -15,8 +15,14 @@ filenames = ['The_North_American_Indian.txt',
 
 print("<<<Enter 'q' to quit in any time>>>")
 for filename in filenames:
-    with open(filename) as file_object:
-        contents = file_object.read()
+    try:
+        with open(filename) as file_object:
+            contents = file_object.read()
+
+    except FileNotFoundError:
+        print(f"The file: '{filename}' not found.")
+
+    else:
         word = input(f"Enter the word you want to count in the file: \
 {filename}\n: ")
 
