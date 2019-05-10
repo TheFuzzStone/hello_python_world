@@ -484,3 +484,14 @@ Done the 10-11 and 10-12 tasks.
 
 ---
 
+## Day 39
+
+**Time allocated for study**: 2 hours
+
+**Today’s Progress**: I have done the 10-13 task and repeated the entire chapter №10 "Files and Exceptions".
+
+**Thoughts**: I've learned this chapter pretty well. I even suggested [a small improvement](https://github.com/ehmatthes/pcc/pull/81) of the code to the author of the book.
+I'll start studying Chapter 11 "**Testing Your Code**" tomorrow.
+
+---
+
