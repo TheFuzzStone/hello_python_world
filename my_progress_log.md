@@ -495,3 +495,22 @@ Tomorrow I'll start studying the Chapter 11 "**Testing Your Code**" .
 
 ---
 
+## Day 40
+
+**Time allocated for study**: 1 hour
+
+**Today’s Progress**: Started the chapter 11 "**Testing Your Code**". 
+
+* Testing a function
+	* Unit Tests and Test Cases
+	* A Passing Test
+	* A Failing Test
+	* Responding to a Failed Test
+	* Adding New Tests
+
+Done 11-1 and 11-2 tasks. 
+
+**Thoughts**: I returned to Python after a long pause... But from today I will try very hard to study systematically, at least 1 hour a day.
+
+---
+
