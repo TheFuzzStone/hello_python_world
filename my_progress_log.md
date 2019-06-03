@@ -514,3 +514,21 @@ Done 11-1 and 11-2 tasks.
 
 ---
 
+## Day 41 
+
+**Time allocated for study**: 1 hour
+
+**Today’s Progress**: Finished the chapter 11. 
+
+* Testing a Class
+	* A Variety of Assert Methods
+	* A Class to Test
+	* Testing the AnonymousSurvey Class
+	* The `setUp()` Method
+
+Done task 11_3.py  (`employee.py` + `test_employee.py`)
+
+**Thoughts**: It seemed that the section wasn't complicated but it's a bit unusual to write tests for your code. At this stage, my code does not need tests because it is simple. But thanks to this chapter I saw and understood that test scripts are a very important part of larger and more complex projects.
+
+---
+
