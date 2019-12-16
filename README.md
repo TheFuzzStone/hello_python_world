@@ -15,7 +15,7 @@ I'm always open to constructive criticism, making new friends and have a peacefu
 
 Also I'm not very familiar with GIT, there's gonna be a lot of mess in this repository... 🙂
 
-For all experiments, I use my laptop with [KDE Neon](https://neon.kde.org/)(User Edition).
+For all experiments, I use my laptop with [KDE Neon](https://neon.kde.org/) (User Edition).
 
 ---
 
